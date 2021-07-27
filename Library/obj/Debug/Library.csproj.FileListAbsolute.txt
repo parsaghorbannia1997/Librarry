@@ -1,0 +1,64 @@
+c:\users\asus\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.exe
+c:\users\asus\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.main_page.resources
+c:\users\asus\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.exe
+c:\users\asus\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.pdb
+E:\dars reza\96-03-02\Library\Library\bin\Debug\Library.exe.config
+E:\dars reza\96-03-02\Library\Library\obj\Debug\Library.exe
+E:\dars reza\96-03-02\Library\Library\obj\Debug\Library.pdb
+E:\dars reza\96-03-02\Library\Library\bin\Debug\Library.exe
+E:\dars reza\96-03-02\Library\Library\bin\Debug\Library.pdb
+E:\dars reza\96-03-02\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\dars reza\96-03-02\Library\Library\obj\Debug\Library.main_page.resources
+E:\dars reza\96-03-02\Library\Library\obj\Debug\Library.Properties.Resources.resources
+E:\dars reza\96-03-02\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+I:\ \Library\Library\bin\Debug\Library.exe.config
+I:\ \Library\Library\obj\Debug\Library.exe
+I:\ \Library\Library\obj\Debug\Library.pdb
+I:\ \Library\Library\bin\Debug\Library.exe
+I:\ \Library\Library\bin\Debug\Library.pdb
+I:\ \Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+I:\ \Library\Library\obj\Debug\Library.main_page.resources
+I:\ \Library\Library\obj\Debug\Library.Properties.Resources.resources
+I:\ \Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\baran O taranom\Desktop\قثظش\Library\Library\bin\Debug\Library.exe.config
+C:\Users\baran O taranom\Desktop\قثظش\Library\Library\obj\Debug\Library.exe
+C:\Users\baran O taranom\Desktop\قثظش\Library\Library\obj\Debug\Library.pdb
+C:\Users\baran O taranom\Desktop\قثظش\Library\Library\bin\Debug\Library.exe
+C:\Users\baran O taranom\Desktop\قثظش\Library\Library\bin\Debug\Library.pdb
+C:\Users\baran O taranom\Desktop\قثظش\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\baran O taranom\Desktop\قثظش\Library\Library\obj\Debug\Library.main_page.resources
+C:\Users\baran O taranom\Desktop\قثظش\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\baran O taranom\Desktop\قثظش\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\baran O taranom\Desktop\پروژه طراحی کتابخانه\Library\Library\bin\Debug\Library.exe.config
+C:\Users\baran O taranom\Desktop\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.exe
+C:\Users\baran O taranom\Desktop\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.pdb
+C:\Users\baran O taranom\Desktop\پروژه طراحی کتابخانه\Library\Library\bin\Debug\Library.exe
+C:\Users\baran O taranom\Desktop\پروژه طراحی کتابخانه\Library\Library\bin\Debug\Library.pdb
+C:\Users\baran O taranom\Desktop\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\baran O taranom\Desktop\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.main_page.resources
+C:\Users\baran O taranom\Desktop\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\baran O taranom\Desktop\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\bin\Debug\Library.exe.config
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.exe
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.pdb
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.main_page.resources
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.Properties.Resources.resources
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\bin\Debug\Library.exe
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\bin\Debug\Library.pdb
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+F:\مطالب مفید+رمان\درس\c#\اموزش صفر تاصد سی شارپ\پروژه طراحی کتابخانه\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\parsa\Desktop\Desktop\Library\Library\bin\Debug\Library.exe.config
+C:\Users\parsa\Desktop\Desktop\Library\Library\bin\Debug\Library.exe
+C:\Users\parsa\Desktop\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\parsa\Desktop\Desktop\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\parsa\Desktop\Desktop\Library\Library\obj\Debug\Library.main_page.resources
+C:\Users\parsa\Desktop\Desktop\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\parsa\Desktop\Desktop\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\parsa\Desktop\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\parsa\Desktop\Desktop\Library\Library\obj\Debug\Library.pdb
