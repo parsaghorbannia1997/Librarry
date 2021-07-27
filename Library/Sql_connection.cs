@@ -11,7 +11,7 @@ namespace Library
     class Sql_connection
     {
         SqlConnection con;
-        string constr = "Data Source=.;Initial"+
+        string constr = "Data Source=.;Initial" +
             " catalog=Book;Integrated Security=True";
         public string query = "";
         public SqlCommand cmd = new SqlCommand();
